@@ -1,11 +1,20 @@
 /* Broadway Design CSS */
 
 body{
-  margin: none;
+  margin: auto;
   font-family: Helvetica, sans-serif;
   text-align: center;
 }
 
+ol {
+  margin none;
+  padding: 0px;
+}
+
 li {
   list-style: none;
+}
+
+.header {
+  background-image: url(../images/the-flatiron-building.png);
 }
